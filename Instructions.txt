@@ -1,0 +1,10 @@
+How to Play
+The Board: Tic-Tac-Toe is played on a 3x3 grid.
+
+The Players: There are two players. One player uses "X" and the other uses "O".
+
+Taking Turns: Players take turns placing their mark in an empty square on the grid.
+
+Winning: The game ends when one player gets three of their marks in a row. That player wins!
+
+Tie Game: If all nine squares are filled and no one has three marks in a row, the game is a "tie" or "draw."
